@@ -2,8 +2,7 @@ package conditionals;
 
 import libs.Input;
 
-public class Logical {
-
+public class Logical
 	public static void main(String args[])
 	{
 		int c = Input.get_char();
